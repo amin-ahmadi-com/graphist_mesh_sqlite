@@ -1,7 +1,7 @@
 name: graphist_mesh_sqlite
 description: Graphist implementation for MeSH data.
 version: 0.1.0
-homepage:
+homepage: https://github.com/amin-ahmadi-com/graphist_mesh_sqlite
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
