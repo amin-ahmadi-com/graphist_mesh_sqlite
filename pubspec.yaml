@@ -1,6 +1,6 @@
 name: graphist_mesh_sqlite
-description: Graphist implementation for MeSH data.
-version: 0.1.0
+description: Graphist implementation for MeSH data. Essentially this package can hel you visualize, search and interact with MeSH data in the form of a graph.
+version: 0.2.0
 homepage: https://github.com/amin-ahmadi-com/graphist_mesh_sqlite
 
 environment:
@@ -12,9 +12,9 @@ dependencies:
     sdk: flutter
   tuple: ^2.0.0
   sqlite3: ^1.9.1
-  n_triples_parser: ^0.2.15
-  n_triples_db: ^0.1.13
-  graphist: ^0.2.0
+  n_triples_parser: ^0.3.0
+  n_triples_db: ^0.2.0
+  graphist: ^0.2.1
 
 dev_dependencies:
   flutter_test:
